@@ -1,0 +1,11 @@
+.play-again-btn {
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: mistyrose;
+}
